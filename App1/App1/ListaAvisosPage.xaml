@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="App1.ListaAvisosPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundImage="fundoapp.jpg">
+
+    <StackLayout>
+
+        <StackLayout BackgroundColor="#e55d13" HorizontalOptions="FillAndExpand">
+            <StackLayout Margin="20,10,10,10">
+                <Label FontSize="Medium" Text="Avisos" />
+            </StackLayout>
+        </StackLayout>
+        <!--  ListView utilizando uma "Custom Cell" e respetivo template  -->
+        <ListView x:Name="paginavisos">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout
+                                BackgroundColor="White"
+                                Opacity="0.5"
+                                Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding tipo}" TextColor="Black" />
+                                    <Label Text="{Binding dia}" TextColor="Black" />
+                                    <Label Text="{Binding hora}" TextColor="Black" />
+                                    <Label Text="{Binding local}" TextColor="Black" />
+                                </StackLayout>
+
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

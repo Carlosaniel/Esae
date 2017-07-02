@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace App1.Models
 {
-    class Horario
+    public class Horario
     {
         public int id_horario { get; set; }
         public string disciplina { get; set; }

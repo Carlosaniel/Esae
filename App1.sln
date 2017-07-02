@@ -11,12 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.UWP", "App1\App1.UWP\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.iOS", "App1\App1.iOS\App1.iOS.csproj", "{F1959905-EE81-4581-BA83-BE645E2214D4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BEAA2CD4-1EA6-4C96-9472-367EA20B3A62}"
-	ProjectSection(SolutionItems) = preProject
-		App1\App1.Android\Resources\drawable\ismt.jpg = App1\App1.Android\Resources\drawable\ismt.jpg
-		logo.png = logo.png
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU

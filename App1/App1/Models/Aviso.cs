@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App1.Models
 {
-    class Aviso
+    public class Aviso
     {
         public int id_aviso { get; set; }
         public string tipo { get; set; }
