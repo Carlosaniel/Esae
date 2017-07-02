@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="App1.Log"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="ESAE"
+    BackgroundImage="fundoapp.jpg">
+
+     <ContentPage.Content>
+ <StackLayout Margin="65,200,65,10">
+       <Image Source="logo.png"></Image>
+       <Entry Placeholder="Nº de aluno"></Entry>
+            <Entry Placeholder="Password"></Entry>
+       <Button
+                        
+                        BackgroundColor="#e55d13"
+                        Text="Entrar"
+                        TextColor="White" />
+                    
+
+    </StackLayout>
+
+        
+   </ContentPage.Content>
+</ContentPage>

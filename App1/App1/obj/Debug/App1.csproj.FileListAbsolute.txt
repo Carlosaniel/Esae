@@ -1,0 +1,48 @@
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/App1.dll
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/App1.pdb
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.MainPage.xaml.g.cs
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.App.xaml.g.cs
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.Cursos.xaml.g.cs
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.Noticias.xaml.g.cs
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.Log.xaml.g.cs
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.dll
+C:/Users/Carlos/Documents/Visual Studio 2017/Projects/App1/App1/App1/obj/Debug/App1.pdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/App1.dll
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/App1.pdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Core.dll
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Core.xml
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/marcospinto/Projects/App11/App1/App1/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.csprojResolveAssemblyReference.cache
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.csproj.CoreCompileInputs.cache
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.MainPage.xaml.g.cs
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.App.xaml.g.cs
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.Posgraduacoes.xaml.g.cs
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.Mestrados.xaml.g.cs
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.Noticias.xaml.g.cs
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.Log.xaml.g.cs
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.dll
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.pdb
+/Users/marcospinto/Projects/App11/App1/App1/obj/Debug/App1.Eventos.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.MainPage.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.App.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.Posgraduacoes.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.Eventos.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.Mestrados.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.Noticias.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.Log.xaml.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\App11\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8C498B3B-3405-4FB5-9A52-A6F01D07C4FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App1/App1/Mestrados.xaml">
+    <Files>
+      <File FileName="App1/App1/MainPage.xaml" Line="58" Column="50" />
+      <File FileName="App1/App1/MainPage.xaml.cs" Line="42" Column="9" />
+      <File FileName="App1/App1/Posgraduacoes.xaml" Line="13" Column="1" />
+      <File FileName="App1/App1/Posgraduacoes.xaml.cs" Line="20" Column="2" />
+      <File FileName="App1/App1/Mestrados.xaml" Line="12" Column="15" />
+      <File FileName="App1/App1/packages.config" Line="1" Column="1" />
+      <File FileName="App1/App1/Mestrados.xaml.cs" Line="10" Column="15" />
+      <File FileName="App1/App1/Noticias.xaml" Line="28" Column="15" />
+      <File FileName="App1/App1/Noticias.xaml.cs" Line="1" Column="1" />
+      <File FileName="App1/App1/Eventos.xaml" Line="6" Column="1" />
+      <File FileName="App1/App1/Eventos.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App1.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>

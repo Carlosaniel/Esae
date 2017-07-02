@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="App1.Mestrados"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundImage="fundoapp.jpg">
+
+
+    <StackLayout>
+
+        <!--  ListView utilizando uma "Custom Cell" e respetivo template  -->
+        <ListView x:Name="exemplo">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding curso}" />
+                                    <Label Text="{Binding coordenador}" />
+                                </StackLayout>
+                                <Label Text="E aqui mais qualquer coisa..." />
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

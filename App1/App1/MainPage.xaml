@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="App1.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:App1"
+    BackgroundImage="fundoapp.jpg">
+
+    <ContentPage.Content>
+        <StackLayout Spacing="10">
+            <StackLayout  HeightRequest="50">
+                <Button
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        HorizontalOptions="End"
+                        Clicked="Button_Clicked_2"
+                        Text="Login"
+                        TextColor="White" />
+                </StackLayout>
+
+            <StackLayout Margin="0,50,0,0">
+                <StackLayout Margin="65,40,65,10">
+                    <Image Margin="10,10,10,10" Source= "logo.png"/>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout Margin="65,50,65,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="90" />
+                        <RowDefinition Height="90" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        BackgroundColor="#e55d13"
+                        Clicked="Button_Clicked"
+                        Text="Mestrados"
+                        TextColor="White" />
+
+                    <Button
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        BackgroundColor="#e55d13"
+                        Clicked="Button_Clicked_1"
+                        Text="Pós Graduações"
+                        TextColor="White" />
+
+                      <Button
+                        Grid.Row="1"
+                        Grid.Column="0"
+                        BackgroundColor="#e55d13"
+                        Clicked="Button_Clicked_3"
+                        Text="Noticias"
+                        TextColor="White" />
+
+                    <Button
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        BackgroundColor="#e55d13"
+                        Clicked="Button_Clicked_4"
+                        Text="Eventos"
+                        TextColor="White" />
+                    
+                </Grid>
+            </StackLayout>
+
+                    
+                
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
